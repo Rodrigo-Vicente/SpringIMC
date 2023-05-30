@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CalcularApplication<calcular>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "imc.calcular.CalcularApplication",
+            "projectName": "calcular",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
